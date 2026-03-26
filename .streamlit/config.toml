@@ -1,0 +1,15 @@
+[global]
+developmentMode = false
+
+[server]
+headless = true
+address = "0.0.0.0"
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+# Hide "Deploy" and other dev-only toolbar items on localhost
+[client]
+toolbarMode = "viewer"
