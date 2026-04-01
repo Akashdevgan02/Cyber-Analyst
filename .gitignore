@@ -11,5 +11,4 @@ data/Threat Hunting.csv
 data/Vulnerabilty Detection.csv
 
 # Local Wazuh / event exports (keep locally; do not push)
-data/sample_wazuh.csv
 data/events-2026-03-25T07_00_27.757Z.csv

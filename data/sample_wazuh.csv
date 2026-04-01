@@ -1,0 +1,111 @@
+timestamp,agent.name,data.title,rule.description,rule.level,rule.id
+"Apr 01, 2026 @ 05:00:00.000",host-018.lab.internal,Routine baseline check #1,FIM scan 0: no drift on host-018.lab.internal.,1,5501
+"Apr 01, 2026 @ 05:00:43.000",host-044.lab.internal,LDAP health probe #2,Bind test OK for svc_ro_43 against host-044.lab.internal.,1,2501
+"Apr 01, 2026 @ 05:02:29.000",host-003.lab.internal,Routine baseline check #3,FIM scan 149: no drift on host-003.lab.internal.,3,2502
+"Apr 01, 2026 @ 05:02:44.000",host-033.lab.internal,Routine baseline check #4,FIM scan 164: no drift on host-033.lab.internal.,1,2501
+"Apr 01, 2026 @ 05:04:13.000",host-042.lab.internal,Routine baseline check #5,FIM scan 253: no drift on host-042.lab.internal.,3,2501
+"Apr 01, 2026 @ 05:05:54.000",host-038.lab.internal,AV update applied #6,Signature rev 4554 installed on host-038.lab.internal.,1,2502
+"Apr 01, 2026 @ 05:06:41.000",host-028.lab.internal,Routine baseline check #7,FIM scan 401: no drift on host-028.lab.internal.,1,5501
+"Apr 01, 2026 @ 05:07:36.000",host-022.lab.internal,DHCP lease renewal #8,Client 10.20.56.206 renewed lease; scope vlan-16.,2,5501
+"Apr 01, 2026 @ 05:08:01.000",host-023.lab.internal,Routine baseline check #9,FIM scan 481: no drift on host-023.lab.internal.,2,2501
+"Apr 01, 2026 @ 05:10:01.000",host-030.lab.internal,DHCP lease renewal #10,Client 10.20.1.101 renewed lease; scope vlan-1.,3,5501
+"Apr 01, 2026 @ 05:11:21.000",host-036.lab.internal,Routine baseline check #11,FIM scan 681: no drift on host-036.lab.internal.,2,2501
+"Apr 01, 2026 @ 05:12:10.000",host-003.lab.internal,DHCP lease renewal #12,Client 10.20.130.230 renewed lease; scope vlan-10.,2,5501
+"Apr 01, 2026 @ 05:13:46.000",host-015.lab.internal,LDAP health probe #13,Bind test OK for svc_ro_826 against host-015.lab.internal.,2,2501
+"Apr 01, 2026 @ 05:14:10.000",host-041.lab.internal,AV update applied #14,Signature rev 5050 installed on host-041.lab.internal.,2,2502
+"Apr 01, 2026 @ 05:16:08.000",host-023.lab.internal,DHCP lease renewal #15,Client 10.20.168.218 renewed lease; scope vlan-8.,2,5501
+"Apr 01, 2026 @ 05:16:46.000",host-035.lab.internal,DHCP lease renewal #16,Client 10.20.6.6 renewed lease; scope vlan-6.,2,5501
+"Apr 01, 2026 @ 05:18:31.000",host-025.lab.internal,LDAP health probe #17,Bind test OK for svc_ro_1111 against host-025.lab.internal.,1,2501
+"Apr 01, 2026 @ 05:19:17.000",host-004.lab.internal,LDAP health probe #18,Bind test OK for svc_ro_1157 against host-004.lab.internal.,3,2501
+"Apr 01, 2026 @ 05:19:58.000",host-018.lab.internal,Routine baseline check #19,FIM scan 1198: no drift on host-018.lab.internal.,2,2502
+"Apr 01, 2026 @ 05:20:18.000",host-014.lab.internal,LDAP health probe #20,Bind test OK for svc_ro_1218 against host-014.lab.internal.,3,2501
+"Apr 01, 2026 @ 05:21:53.000",host-010.lab.internal,AV update applied #21,Signature rev 5513 installed on host-010.lab.internal.,2,2502
+"Apr 01, 2026 @ 05:22:38.000",host-038.lab.internal,LDAP health probe #22,Bind test OK for svc_ro_1358 against host-038.lab.internal.,1,2501
+"Apr 01, 2026 @ 05:23:44.000",host-009.lab.internal,AV update applied #23,Signature rev 5624 installed on host-009.lab.internal.,2,2502
+"Apr 01, 2026 @ 05:25:01.000",host-008.lab.internal,AV update applied #24,Signature rev 5701 installed on host-008.lab.internal.,1,2502
+"Apr 01, 2026 @ 05:25:32.000",host-039.lab.internal,LDAP health probe #25,Bind test OK for svc_ro_1532 against host-039.lab.internal.,3,2501
+"Apr 01, 2026 @ 05:25:52.000",host-034.lab.internal,AV update applied #26,Signature rev 5752 installed on host-034.lab.internal.,2,2502
+"Apr 01, 2026 @ 05:26:36.000",host-008.lab.internal,Routine baseline check #27,FIM scan 1596: no drift on host-008.lab.internal.,3,5501
+"Apr 01, 2026 @ 05:28:15.000",host-019.lab.internal,DHCP lease renewal #28,Client 10.20.95.195 renewed lease; scope vlan-15.,3,5501
+"Apr 01, 2026 @ 05:29:22.000",host-017.lab.internal,Threshold notice #1,CPU queue 2s on host-017.lab.internal; autoscaler notified.,7,5502
+"Apr 01, 2026 @ 05:30:38.000",host-041.lab.internal,Threshold notice #2,CPU queue 6s on host-041.lab.internal; autoscaler notified.,4,5502
+"Apr 01, 2026 @ 05:31:54.000",host-011.lab.internal,Threshold notice #3,CPU queue 2s on host-011.lab.internal; autoscaler notified.,5,5502
+"Apr 01, 2026 @ 05:33:15.000",host-002.lab.internal,Performance advisory #4,Disk latency p95 55ms on volume vol-3 at host-002.lab.internal.,6,5503
+"Apr 01, 2026 @ 05:33:41.000",host-004.lab.internal,Netflow burst #5,East-west traffic spike 6863 Mbps to host-004.lab.internal.,6,5502
+"Apr 01, 2026 @ 05:34:23.000",host-005.lab.internal,Performance advisory #6,Disk latency p95 43ms on volume vol-11 at host-005.lab.internal.,4,5503
+"Apr 01, 2026 @ 05:36:12.000",host-036.lab.internal,Threshold notice #7,CPU queue 4s on host-036.lab.internal; autoscaler notified.,5,5502
+"Apr 01, 2026 @ 05:36:45.000",host-014.lab.internal,Netflow burst #8,East-west traffic spike 7415 Mbps to host-014.lab.internal.,7,5502
+"Apr 01, 2026 @ 05:38:06.000",host-043.lab.internal,Threshold notice #9,CPU queue 6s on host-043.lab.internal; autoscaler notified.,6,5502
+"Apr 01, 2026 @ 05:39:41.000",host-008.lab.internal,Netflow burst #10,East-west traffic spike 7943 Mbps to host-008.lab.internal.,6,5502
+"Apr 01, 2026 @ 05:40:24.000",host-002.lab.internal,Threshold notice #11,CPU queue 0s on host-002.lab.internal; autoscaler notified.,4,5502
+"Apr 01, 2026 @ 05:41:51.000",host-005.lab.internal,Threshold notice #12,CPU queue 7s on host-005.lab.internal; autoscaler notified.,5,5502
+"Apr 01, 2026 @ 05:43:33.000",host-003.lab.internal,Performance advisory #13,Disk latency p95 53ms on volume vol-9 at host-003.lab.internal.,5,5502
+"Apr 01, 2026 @ 05:44:27.000",host-043.lab.internal,Performance advisory #14,Disk latency p95 47ms on volume vol-3 at host-043.lab.internal.,5,5503
+"Apr 01, 2026 @ 05:45:41.000",host-016.lab.internal,Threshold notice #15,CPU queue 5s on host-016.lab.internal; autoscaler notified.,5,5502
+"Apr 01, 2026 @ 05:47:33.000",host-007.lab.internal,Config drift #16,NTP offset 153ms vs stratum-1 on host-007.lab.internal.,5,5503
+"Apr 01, 2026 @ 05:47:57.000",host-027.lab.internal,Config drift #17,NTP offset 177ms vs stratum-1 on host-027.lab.internal.,5,5503
+"Apr 01, 2026 @ 05:49:08.000",host-026.lab.internal,Performance advisory #18,Disk latency p95 48ms on volume vol-8 at host-026.lab.internal.,4,5502
+"Apr 01, 2026 @ 05:50:53.000",host-013.lab.internal,Netflow burst #19,East-west traffic spike 9959 Mbps to host-013.lab.internal.,5,5502
+"Apr 01, 2026 @ 05:51:29.000",host-012.lab.internal,Config drift #20,NTP offset 89ms vs stratum-1 on host-012.lab.internal.,4,5503
+"Apr 01, 2026 @ 05:52:16.000",host-029.lab.internal,Config drift #21,NTP offset 136ms vs stratum-1 on host-029.lab.internal.,4,5503
+"Apr 01, 2026 @ 05:54:11.000",host-006.lab.internal,Performance advisory #22,Disk latency p95 51ms on volume vol-11 at host-006.lab.internal.,4,5502
+"Apr 01, 2026 @ 05:55:59.000",host-032.lab.internal,Threshold notice #23,CPU queue 7s on host-032.lab.internal; autoscaler notified.,5,5502
+"Apr 01, 2026 @ 05:57:12.000",host-011.lab.internal,Threshold notice #24,CPU queue 0s on host-011.lab.internal; autoscaler notified.,7,5502
+"Apr 01, 2026 @ 05:58:12.000",host-030.lab.internal,Performance advisory #25,Disk latency p95 52ms on volume vol-0 at host-030.lab.internal.,7,5503
+"Apr 01, 2026 @ 05:59:00.000",host-010.lab.internal,Config drift #26,NTP offset 240ms vs stratum-1 on host-010.lab.internal.,6,5503
+"Apr 01, 2026 @ 05:59:36.000",host-038.lab.internal,Netflow burst #27,East-west traffic spike 11528 Mbps to host-038.lab.internal.,5,5502
+"Apr 01, 2026 @ 06:01:22.000",host-004.lab.internal,Performance advisory #28,Disk latency p95 42ms on volume vol-10 at host-004.lab.internal.,6,5502
+"Apr 01, 2026 @ 06:02:48.000",host-004.lab.internal,SSH brute pattern #1,Repeated auth failures from 192.0.2.168 targeting host-004.lab.internal.,10,5714
+"Apr 01, 2026 @ 06:04:05.000",host-039.lab.internal,SSH auth failure #2,Failed login for user probe_3845 from 198.51.45.95 on host-039.lab.internal.,9,5712
+"Apr 01, 2026 @ 06:04:25.000",host-037.lab.internal,Multiple auth failures #3,10 failed logins for svc_temp on host-037.lab.internal within window.,11,5551
+"Apr 01, 2026 @ 06:05:08.000",host-043.lab.internal,SSH auth failure #4,Failed login for user probe_3908 from 198.51.108.158 on host-043.lab.internal.,8,5713
+"Apr 01, 2026 @ 06:06:34.000",host-043.lab.internal,Web attack blocked #5,WAF blocked request id 8090 path /api/44 on host-043.lab.internal.,10,31108
+"Apr 01, 2026 @ 06:08:17.000",host-026.lab.internal,Web attack blocked #6,WAF blocked request id 8193 path /api/47 on host-026.lab.internal.,9,31151
+"Apr 01, 2026 @ 06:08:45.000",host-005.lab.internal,Web attack blocked #7,WAF blocked request id 8221 path /api/25 on host-005.lab.internal.,10,31151
+"Apr 01, 2026 @ 06:08:58.000",host-005.lab.internal,SSH brute pattern #8,Repeated auth failures from 192.0.2.138 targeting host-005.lab.internal.,10,5714
+"Apr 01, 2026 @ 06:10:18.000",host-023.lab.internal,Multiple auth failures #9,13 failed logins for svc_temp on host-023.lab.internal within window.,10,5551
+"Apr 01, 2026 @ 06:10:38.000",host-011.lab.internal,Multiple auth failures #10,13 failed logins for svc_temp on host-011.lab.internal within window.,10,5551
+"Apr 01, 2026 @ 06:11:46.000",host-034.lab.internal,Web attack blocked #11,WAF blocked request id 8402 path /api/6 on host-034.lab.internal.,11,31160
+"Apr 01, 2026 @ 06:11:59.000",host-009.lab.internal,Web attack blocked #12,WAF blocked request id 8415 path /api/19 on host-009.lab.internal.,11,31108
+"Apr 01, 2026 @ 06:12:44.000",host-036.lab.internal,SSH auth failure #13,Failed login for user probe_4364 from 198.51.164.114 on host-036.lab.internal.,8,5714
+"Apr 01, 2026 @ 06:13:15.000",host-014.lab.internal,Web attack blocked #14,WAF blocked request id 8491 path /api/45 on host-014.lab.internal.,10,31160
+"Apr 01, 2026 @ 06:14:58.000",host-041.lab.internal,Web attack blocked #15,WAF blocked request id 8594 path /api/48 on host-041.lab.internal.,9,31160
+"Apr 01, 2026 @ 06:15:43.000",host-006.lab.internal,SSH brute pattern #16,Repeated auth failures from 192.0.2.143 targeting host-006.lab.internal.,9,5714
+"Apr 01, 2026 @ 06:17:16.000",host-001.lab.internal,SSH brute pattern #17,Repeated auth failures from 192.0.2.36 targeting host-001.lab.internal.,9,5714
+"Apr 01, 2026 @ 06:18:10.000",host-029.lab.internal,Multiple auth failures #18,5 failed logins for svc_temp on host-029.lab.internal within window.,10,5551
+"Apr 01, 2026 @ 06:19:32.000",host-008.lab.internal,SSH brute pattern #19,Repeated auth failures from 192.0.2.172 targeting host-008.lab.internal.,10,5714
+"Apr 01, 2026 @ 06:19:53.000",host-038.lab.internal,Multiple auth failures #20,8 failed logins for svc_temp on host-038.lab.internal within window.,8,5551
+"Apr 01, 2026 @ 06:21:15.000",host-003.lab.internal,Multiple auth failures #21,10 failed logins for svc_temp on host-003.lab.internal within window.,11,5551
+"Apr 01, 2026 @ 06:22:06.000",host-014.lab.internal,Web attack blocked #22,WAF blocked request id 9022 path /api/26 on host-014.lab.internal.,9,31151
+"Apr 01, 2026 @ 06:23:45.000",host-036.lab.internal,Multiple auth failures #23,10 failed logins for svc_temp on host-036.lab.internal within window.,8,5551
+"Apr 01, 2026 @ 06:24:49.000",host-012.lab.internal,Multiple auth failures #24,14 failed logins for svc_temp on host-012.lab.internal within window.,9,5551
+"Apr 01, 2026 @ 06:25:53.000",host-022.lab.internal,SSH auth failure #25,Failed login for user probe_5153 from 198.51.153.153 on host-022.lab.internal.,9,5714
+"Apr 01, 2026 @ 06:27:45.000",host-018.lab.internal,SSH brute pattern #26,Repeated auth failures from 192.0.2.65 targeting host-018.lab.internal.,10,5714
+"Apr 01, 2026 @ 06:28:17.000",host-031.lab.internal,SSH auth failure #27,Failed login for user probe_5297 from 198.51.97.47 on host-031.lab.internal.,11,5712
+"Apr 01, 2026 @ 06:28:57.000",host-020.lab.internal,Critical web exploit #1,Blocked RCE attempt chain 5337 against host-020.lab.internal.,13,31175
+"Apr 01, 2026 @ 06:30:54.000",host-043.lab.internal,Critical web exploit #2,Blocked RCE attempt chain 5454 against host-043.lab.internal.,12,31152
+"Apr 01, 2026 @ 06:31:30.000",host-005.lab.internal,Rootcheck anomaly #3,Hidden port 40490/tcp detected on host-005.lab.internal.,13,510
+"Apr 01, 2026 @ 06:33:20.000",host-044.lab.internal,Suspicious bulk outbound #4,Relay host-044.lab.internal sent 281000 msgs in 5m to external domains.,14,5552
+"Apr 01, 2026 @ 06:35:19.000",host-017.lab.internal,Suspicious bulk outbound #5,Relay host-017.lab.internal sent 286950 msgs in 5m to external domains.,12,5552
+"Apr 01, 2026 @ 06:35:53.000",host-039.lab.internal,Suspicious bulk outbound #6,Relay host-039.lab.internal sent 288650 msgs in 5m to external domains.,12,5552
+"Apr 01, 2026 @ 06:37:00.000",host-039.lab.internal,Suspicious bulk outbound #7,Relay host-039.lab.internal sent 292000 msgs in 5m to external domains.,14,5552
+"Apr 01, 2026 @ 06:38:17.000",host-017.lab.internal,Privilege escalation #8,User bad_5897 sudo to root shell on host-017.lab.internal; session recorded.,15,5402
+"Apr 01, 2026 @ 06:38:34.000",host-024.lab.internal,Rootcheck anomaly #9,Hidden port 40914/tcp detected on host-024.lab.internal.,12,510
+"Apr 01, 2026 @ 06:39:41.000",host-043.lab.internal,Privilege escalation #10,User bad_5981 sudo to root shell on host-043.lab.internal; session recorded.,14,5403
+"Apr 01, 2026 @ 06:41:41.000",host-043.lab.internal,Privilege escalation #11,User bad_6101 sudo to root shell on host-043.lab.internal; session recorded.,14,5403
+"Apr 01, 2026 @ 06:42:45.000",host-036.lab.internal,Suspicious bulk outbound #12,Relay host-036.lab.internal sent 309250 msgs in 5m to external domains.,15,5552
+"Apr 01, 2026 @ 06:43:13.000",host-044.lab.internal,Critical web exploit #13,Blocked RCE attempt chain 6193 against host-044.lab.internal.,13,31175
+"Apr 01, 2026 @ 06:45:00.000",host-026.lab.internal,Critical web exploit #14,Blocked RCE attempt chain 6300 against host-026.lab.internal.,14,31175
+"Apr 01, 2026 @ 06:46:22.000",host-014.lab.internal,Privilege escalation #15,User bad_6382 sudo to root shell on host-014.lab.internal; session recorded.,14,5403
+"Apr 01, 2026 @ 06:47:29.000",host-029.lab.internal,Suspicious bulk outbound #16,Relay host-029.lab.internal sent 323450 msgs in 5m to external domains.,15,5552
+"Apr 01, 2026 @ 06:49:07.000",host-011.lab.internal,Critical web exploit #17,Blocked RCE attempt chain 6547 against host-011.lab.internal.,14,31175
+"Apr 01, 2026 @ 06:50:43.000",host-006.lab.internal,Privilege escalation #18,User bad_6643 sudo to root shell on host-006.lab.internal; session recorded.,14,5403
+"Apr 01, 2026 @ 06:52:39.000",host-015.lab.internal,Critical web exploit #19,Blocked RCE attempt chain 6759 against host-015.lab.internal.,14,31175
+"Apr 01, 2026 @ 06:54:34.000",host-003.lab.internal,Critical web exploit #20,Blocked RCE attempt chain 6874 against host-003.lab.internal.,12,31152
+"Apr 01, 2026 @ 06:55:17.000",host-027.lab.internal,Rootcheck anomaly #21,Hidden port 41917/tcp detected on host-027.lab.internal.,12,510
+"Apr 01, 2026 @ 06:56:49.000",host-032.lab.internal,Critical web exploit #22,Blocked RCE attempt chain 7009 against host-032.lab.internal.,14,31175
+"Apr 01, 2026 @ 06:57:52.000",host-007.lab.internal,Critical web exploit #23,Blocked RCE attempt chain 7072 against host-007.lab.internal.,12,31152
+"Apr 01, 2026 @ 06:59:43.000",host-034.lab.internal,Rootcheck anomaly #24,Hidden port 42183/tcp detected on host-034.lab.internal.,12,510
+"Apr 01, 2026 @ 07:00:54.000",host-030.lab.internal,Privilege escalation #25,User bad_7254 sudo to root shell on host-030.lab.internal; session recorded.,13,5402
+"Apr 01, 2026 @ 07:01:23.000",host-040.lab.internal,Rootcheck anomaly #26,Hidden port 42283/tcp detected on host-040.lab.internal.,13,510
+"Apr 01, 2026 @ 07:03:19.000",host-031.lab.internal,Rootcheck anomaly #27,Hidden port 42399/tcp detected on host-031.lab.internal.,13,510
