@@ -5,3 +5,7 @@ __pycache__/
 .DS_Store
 .venv_libs/
 .cursor/
+
+# Large Wazuh exports (keep locally; do not push)
+data/Threat Hunting.csv
+data/Vulnerabilty Detection.csv
